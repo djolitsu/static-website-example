@@ -1,3 +1,5 @@
+[![Build Status](https://1f7f-102-115-81-156.ngrok-free.app/buildStatus/icon?job=static-website)](https://1f7f-102-115-81-156.ngrok-free.app/job/static-website/)
+
 Static Website Example
 ----------------------
 
